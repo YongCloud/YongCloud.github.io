@@ -39,3 +39,5 @@ Skills
   * SQL, Excellent
   * C/C++, Experienced
 * Architecture Design
+  * Serverless Architecture
+  * Well-Architected Solution
