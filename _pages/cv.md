@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor's degree in Computer Science and Technology, Nanjing Agricultural University, 2013 - 2017
+* Middle school in Hezhang County No.1 Middle School, Guizhou Province, 2010 - 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.07 - present: Data Analysis Architecture
+  * BA Techworks
+  * Duties included: Design Architecture for Big Data Ingestion and Analysis Based on Azure and AWS Components
+  * Skills included: Python, Pandas, AWS Big Data Analysis Stack, Azure Big Data Analysis Stack, Well-Architected Framework
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017.06 - 2021.07: Data Engineer
+  * Whale Cloud Technology
+  * Duties included: Build Data Pipelines for Big Data Collecting, Storage and Processing
+  * Skills included: Java, Spring Framework, Hadoop ecosystem (HDFS, Hive, Kafka, Spark, ZooKeeper etc), Alicloud Big Data Analysis Stack
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Big Data and Cloud Computing
+  * Hadoop ecosystem
+  * AWS Big Data Analysis Stack
+  * Azure Big Data Analysis Stack
+  * Alicloud Big Data Analysis Stack
+* Programming Languages
+  * Java, Excellent
+  * Python, Excellent
+  * SQL, Excellent
+  * C/C++, Experienced
+* Architecture Design
