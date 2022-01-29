@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Steve Yang home on the web!
+This is Steve Yang home on the web! More information is updating...
