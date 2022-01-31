@@ -23,4 +23,4 @@ I received my B.S in Computer Science and Technology from Nanjing Agricultural U
 I studied in NAU from 2013 to 2017, which is a delightful experience. I read about 300 books and finished my first half-marathon of my life. Of course, writing code and solving computer science problem is my routine. In addition, I measured the city of Nanjing with my footsteps.
 
 ## My service
-I enjoy learning and sharing, so you can ask me any questions related my domain, I will try my best to reply you.
+I enjoy learning and sharing, so you can ask me any questions related to my domain, I will try my best to interact with you.
